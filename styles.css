@@ -1360,6 +1360,10 @@ input, select, textarea { font-family: inherit; font-size: 1rem; }
   .hero-actions .btn-primary,
   .hero-actions .btn-outline { width: 100%; justify-content: center; }
   
+  /* Price responsiveness */
+  .price-block { padding: 16px 20px; }
+  .price-value { font-size: 1.5rem; }
+  
   /* Hide zoom on mobile */
   .zoom-result { display: none; }
   .zoom-lens { display: none; }
